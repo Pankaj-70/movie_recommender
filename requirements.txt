@@ -1,0 +1,7 @@
+numpy 
+pandas
+ipykernel
+nltk
+streamlit
+pickle
+scikit-learn
